@@ -15,5 +15,5 @@ Review reports following the formal review of GOM Atlantis:<br>
 Potential resources for future ecosystem model reviews:
 - GOM_Atlantis_CIE_Review_Docs_Example_OnePager.pdf -- Example of a “one-pager”
 
-R-scripts developed through the GOM Atlantis peer review for producing diagnostics:
-[coming soon]
+R-scripts developed through the GOM Atlantis peer review for producing diagnostics:<br>
+- [coming soon]
