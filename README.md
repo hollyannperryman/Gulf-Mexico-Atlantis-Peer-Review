@@ -1,12 +1,10 @@
 # Gulf-Mexico-Atlantis-Peer-Review
-
-Preparation documents for the formal review of GOM Atlantis:<br>
+<br>Preparation documents for the formal review of GOM Atlantis:<br>
 - GOM_Atlantis_CIE_Review_Docs_SOW_TORs.docx -- 
 - GOM_Atlantis_CIE_Review_Docs_Roles_Rules.docx -- 
 - GOM_Atlantis_CIE_Review_Docs_Final_Agenda.docx -- 
 - GOM_Atlantis_CIE_Review_Docs_Template_ReviewerReport.docx -- 
-
-<br>Review reports following the formal review of GOM Atlantis:
+<br>Review reports following the formal review of GOM Atlantis:<br>
 
 GOM_Atlantis_CIE_Review_Report_CIE_Drinkwater.pdf
 
